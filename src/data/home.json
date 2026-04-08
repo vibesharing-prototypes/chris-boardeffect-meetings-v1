@@ -1,0 +1,37 @@
+{
+  "agendaItems": [
+    { "id": "a1", "title": "FY2027 budget approval", "status": "Action needed" },
+    { "id": "a2", "title": "Executive director performance review", "status": "Submitted" },
+    { "id": "a3", "title": "Bylaws amendment — Article IV", "status": "Draft" },
+    { "id": "a4", "title": "Grant acceptance: United Way partnership", "status": "Approved" },
+    { "id": "a5", "title": "New board member orientation plan", "status": "Submitted" }
+  ],
+  "featuredPolicies": [
+    { "id": "p1", "title": "Conflict of interest policy", "subtitle": "Annual disclosure" },
+    { "id": "p2", "title": "Document retention policy", "subtitle": "Rev. Jan 2026" }
+  ],
+  "featuredDocuments": [
+    { "id": "d1", "title": "FY2025 audited financial statements" },
+    { "id": "d2", "title": "Strategic plan 2025–2028" }
+  ],
+  "featuredGoals": [
+    { "id": "g1", "title": "Donor retention rate", "progress": 72 },
+    { "id": "g2", "title": "Program expansion milestones", "progress": 45 },
+    { "id": "g3", "title": "Board diversity target", "progress": 88 }
+  ],
+  "boardMembers": [
+    { "name": "Angela Rivera", "role": "Board chair" },
+    { "name": "David Okonkwo", "role": "Vice chair" },
+    { "name": "Susan Park", "role": "Treasurer" },
+    { "name": "Michael Brennan", "role": "Secretary" },
+    { "name": "Priya Sharma", "role": "Board member" },
+    { "name": "Thomas Jackson", "role": "Board member" },
+    { "name": "Karen Liu", "role": "Board member" },
+    { "name": "James Whitfield", "role": "Board member" },
+    { "name": "Maria Santos", "role": "Board member" }
+  ],
+  "welcomeParagraphs": [
+    "Welcome to the Horizon Community Foundation board portal. The board of directors meets quarterly on the third Thursday of January, April, July, and October at 4:00 PM.",
+    "Board packets are distributed at least seven days prior to each meeting. Committee reports are due five business days before the full board meeting. Please review all materials in advance and direct questions to the executive director or board chair."
+  ]
+}
